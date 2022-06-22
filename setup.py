@@ -29,7 +29,7 @@ setup(
     },
     install_requires=[
         "pandas==1.0.3",
-        "numpy==1.18.4",
+        "numpy==1.22.0",
         "spacy==2.2.4",
         "pyahocorasick==1.4.0",
     ],
